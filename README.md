@@ -2,13 +2,13 @@
 Developed a classroom management platform inspired by Google Classroom, integrating real-time updates, Firebase authentication, and responsive design using Tailwind CSS.
 
 ## **Insights of the app:**
-**Landing Page** ![Landing Page](/dbatu-classroom-app/src/assets/app_photo/LandingPage.png)
-**Signup Page** ![Signup Page](/dbatu-classroom-app/src/assets/app_photo/SignUp.png)
-**Login Page** ![Login Page](/dbatu-classroom-app/src/assets/app_photo/Login.png)
-**Home Page** ![Home Page](/dbatu-classroom-app/src/assets/app_photo/Home.png)
-**Create Class** ![Create Class](/dbatu-classroom-app/src/assets/app_photo/CreateClass.png)
-**Join Class** ![Join Class](/dbatu-classroom-app/src/assets/app_photo/JoinClass.png)
-**Classroom** ![Join Class](/dbatu-classroom-app/src/assets/app_photo/Classroom.png)
+**Landing Page** ![Landing Page](/dbatu-classroom-app/public/app_photo/LandingPage.png)
+**Signup Page** ![Signup Page](/dbatu-classroom-app/public/app_photo/SignUp.png)
+**Login Page** ![Login Page](/dbatu-classroom-app/public/app_photo/Login.png)
+**Home Page** ![Home Page](/dbatu-classroom-app/public/app_photo/Home.png)
+**Create Class** ![Create Class](/dbatu-classroom-app/public/app_photo/CreateClass.png)
+**Join Class** ![Join Class](/dbatu-classroom-app/public/app_photo/JoinClass.png)
+**Classroom** ![Join Class](/dbatu-classroom-app/public/app_photo/Classroom.png)
 <br>
 
 ## Clone my app -
