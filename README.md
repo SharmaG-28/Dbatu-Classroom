@@ -8,7 +8,7 @@ Developed a classroom management platform inspired by Google Classroom, integrat
 **Home Page** ![Home Page](/dbatu-classroom-app/public/app_photo/Home.png)
 **Create Class** ![Create Class](/dbatu-classroom-app/public/app_photo/CreateClass.png)
 **Join Class** ![Join Class](/dbatu-classroom-app/public/app_photo/JoinClass.png)
-**Classroom** ![Join Class](/dbatu-classroom-app/public/app_photo/Classroom.png)
+**Classroom** ![Join Class](/public/app_photo/Classroom.png)
 <br>
 
 ## Clone my app -
